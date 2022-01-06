@@ -1,7 +1,7 @@
 const Layout = ({ children }) => {
   return (
     <>
-      <header>
+      <header className="bg-black text-white">
         Hi I&apos;m the header
       </header>
       <main>
